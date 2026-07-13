@@ -1,3 +1,7 @@
+# Credentials 
+creds/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -150,7 +154,7 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+.my-venv
 env/
 venv/
 ENV/
